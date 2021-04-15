@@ -1,0 +1,10 @@
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\bin\Debug\AdmitereMedicina-ValoriNumerice.exe.config
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\bin\Debug\AdmitereMedicina-ValoriNumerice.exe
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\bin\Debug\AdmitereMedicina-ValoriNumerice.pdb
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina-ValoriNumerice.csprojAssemblyReference.cache
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina_ValoriNumerice.Properties.Resources.resources
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina-ValoriNumerice.csproj.GenerateResource.cache
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina-ValoriNumerice.csproj.CoreCompileInputs.cache
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina-ValoriNumerice.exe
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina-ValoriNumerice.pdb
+C:\Users\xpoiz\Documents\Visual Studio 2019\Projects\C#\AdmitereMedicina-ValoriNumerice\obj\Debug\AdmitereMedicina_ValoriNumerice.MainForm.resources
